@@ -44,7 +44,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn Python
 
-- [LearnAI for Python](https://uselearnai.com/chat?topic=Python) - AI-powered personalized Python tutor with adaptive curriculum.
+- [LearnAI for Python](https://uselearnai.com/chat?topic=python) - AI-powered personalized Python tutor with adaptive curriculum.
 - [learn-python-with-ai](https://github.com/buildonlabs/learn-python-with-ai) - Free, structured Python learning roadmap with AI tutoring support.
 - [Python.org Official Tutorial](https://docs.python.org/3/tutorial/) - The official Python tutorial, best paired with an AI assistant for Q&A.
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - Free book on practical Python for total beginners.
@@ -53,7 +53,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn JavaScript
 
-- [LearnAI for JavaScript](https://uselearnai.com/chat?topic=JavaScript) - AI-powered personalized JavaScript tutor with adaptive curriculum.
+- [LearnAI for JavaScript](https://uselearnai.com/chat?topic=js) - AI-powered personalized JavaScript tutor with adaptive curriculum.
 - [learn-javascript-with-ai](https://github.com/buildonlabs-org/learn-javascript-with-ai) - Free, structured JavaScript learning roadmap with AI tutoring support.
 - [javascript.info](https://javascript.info/) - Modern JavaScript tutorial from basics to advanced topics.
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - Free interactive JavaScript course with certifications.
@@ -62,7 +62,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn AI / ML / Deep Learning
 
-- [LearnAI for Machine Learning](https://uselearnai.com/chat?topic=Machine%20Learning) - AI-powered personalized ML tutor with adaptive curriculum.
+- [LearnAI for Machine Learning](https://uselearnai.com/chat?topic=ml) - AI-powered personalized ML tutor with adaptive curriculum.
 - [ai-ml-learning-roadmap](https://github.com/buildonlabs-org/ai-ml-learning-roadmap) - Structured roadmap with free resources and projects for learning AI/ML.
 - [fast.ai](https://www.fast.ai/) - Practical deep learning courses — top-down approach, learn by doing.
 - [Andrew Ng's Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) - The most popular ML course ever created.
