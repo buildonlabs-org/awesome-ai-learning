@@ -28,7 +28,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## AI-Powered Learning Platforms
 
-- [LearnAI](https://uselearnai.com) - AI tutor that generates personalized curricula and teaches through conversation. Covers Python, JavaScript, AI/ML, and more.
+- [LearnAI](https://uselearnai.com/chat) - AI tutor that generates personalized curricula and teaches through conversation. Covers Python, JavaScript, AI/ML, and more.
 - [Khan Academy + Khanmigo](https://www.khanacademy.org/) - Khanmigo is Khan Academy's AI tutor built on GPT-4, offering guided problem-solving across subjects.
 - [Brilliant](https://brilliant.org/) - Interactive STEM learning with AI-driven problem sequences that adapt to your level.
 - [DataCamp](https://www.datacamp.com/) - AI-powered courses for data science, Python, R, and SQL with hands-on exercises.
@@ -44,6 +44,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn Python
 
+- [LearnAI for Python](https://uselearnai.com/chat?topic=Python) - AI-powered personalized Python tutor with adaptive curriculum.
 - [learn-python-with-ai](https://github.com/buildonlabs/learn-python-with-ai) - Free, structured Python learning roadmap with AI tutoring support.
 - [Python.org Official Tutorial](https://docs.python.org/3/tutorial/) - The official Python tutorial, best paired with an AI assistant for Q&A.
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/) - Free book on practical Python for total beginners.
@@ -52,6 +53,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn JavaScript
 
+- [LearnAI for JavaScript](https://uselearnai.com/chat?topic=JavaScript) - AI-powered personalized JavaScript tutor with adaptive curriculum.
 - [learn-javascript-with-ai](https://github.com/buildonlabs-org/learn-javascript-with-ai) - Free, structured JavaScript learning roadmap with AI tutoring support.
 - [javascript.info](https://javascript.info/) - Modern JavaScript tutorial from basics to advanced topics.
 - [freeCodeCamp JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - Free interactive JavaScript course with certifications.
@@ -60,6 +62,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 
 ## Learn AI / ML / Deep Learning
 
+- [LearnAI for Machine Learning](https://uselearnai.com/chat?topic=Machine%20Learning) - AI-powered personalized ML tutor with adaptive curriculum.
 - [ai-ml-learning-roadmap](https://github.com/buildonlabs-org/ai-ml-learning-roadmap) - Structured roadmap with free resources and projects for learning AI/ML.
 - [fast.ai](https://www.fast.ai/) - Practical deep learning courses — top-down approach, learn by doing.
 - [Andrew Ng's Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning) - The most popular ML course ever created.
