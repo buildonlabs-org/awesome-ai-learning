@@ -33,6 +33,7 @@ Learning with AI is a superpower. These tools use artificial intelligence to per
 - [Brilliant](https://brilliant.org/) - Interactive STEM learning with AI-driven problem sequences that adapt to your level.
 - [DataCamp](https://www.datacamp.com/) - AI-powered courses for data science, Python, R, and SQL with hands-on exercises.
 - [Codecademy](https://www.codecademy.com/) - Interactive coding courses with AI features for personalized learning paths.
+- [soclever](https://soclever.io) - AI tutor that turns any topic into a short course with five-minute lessons, practice questions, comics and podcast versions. Freemium.
 
 ## AI Coding Assistants
 
